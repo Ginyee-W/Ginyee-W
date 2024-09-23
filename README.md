@@ -14,7 +14,7 @@ The impact of energy infrastructure of the green transformation of enterprises.
 # 🦾 Skills
 Python &emsp;| &emsp; R &emsp;| &emsp; LaTeX &emsp;| &emsp; English(IELTS 7.5) &emsp;| &emsp; Cooking
 
-# 💻 Internships
+# 🧸 Internships
 - *2024.07 - 2024.10*, Risk Consultant,FRM,*KPMG*, China.
 
 # 📫 Reach me
