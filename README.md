@@ -3,7 +3,7 @@
 #### Undergraduate Student | Central University of Finance and Economics
 
 # 📖 Educations
-- *2021.09 - 2025.09*, B.S. in Statistics at Central University of Finance and Economics.&emsp;GPA:3.5/4.
+- *2021.09 - 2025.06*, B.S. in Statistics at Central University of Finance and Economics.&emsp;GPA:3.5/4.
 
 # 🎖 Honors and Awards
 - *2024.5*  Mathematical Contest in Modeling (MCM) |  **Honorable Mention**
