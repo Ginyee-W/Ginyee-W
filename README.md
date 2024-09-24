@@ -3,13 +3,13 @@
 #### Undergraduate Student | Central University of Finance and Economics
 
 # 🔭Currently Working
-The impact of energy infrastructure of the green transformation of enterprises.
+*The impact of energy infrastructure of the green transformation of enterprises.*
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.S. in Statistics at Central University of Finance and Economics.&emsp;GPA:3.5/4.
 
 # 🎖 Honors and Awards
-- *2024.5*  Mathematical Contest in Modeling (MCM) |  **Honorable Mention**
+- *2024.5*  Mathematical Contest in Modeling (MCM) &emsp;&emsp;  **Honorable Mention**
 
 # 🦾 Skills
 Python &emsp;| &emsp; R &emsp;| &emsp; LaTeX &emsp;| &emsp; English(IELTS 7.5) &emsp;| &emsp; Cooking
