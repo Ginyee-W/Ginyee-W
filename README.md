@@ -15,12 +15,13 @@
 Python &emsp;| &emsp; R &emsp;| &emsp; LaTeX &emsp;| &emsp; English(IELTS 7.5) &emsp;| &emsp; Cooking
 
 # 🧸 Internships
-- *2024.07 - 2024.10*, Risk Consultant,FRM,*KPMG*, China.
+- *2024.07 - 2024.10*, Risk Consulting,FRM,*KPMG*, China.
 
 # 📫 Reach me
 - ***QQ*** :&emsp;542219577
 - ***WeChat***:&emsp;wjy542219577
 - ***Tel***:&emsp;+86 19857333783
+- ***Email***:&emsp;wujinyi1203@163.com
 
 <!--
 **Ginyee-W/Ginyee-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
