@@ -3,7 +3,7 @@
 #### Undergraduate Student | Central University of Finance and Economics
 
 # 🔭Currently Working
-*The impact of energy infrastructure of the green transformation of enterprises.*
+*The impact of energy infrastructure of urban resilience.*
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.S. in Statistics at Central University of Finance and Economics.&emsp;GPA:3.5/4.
