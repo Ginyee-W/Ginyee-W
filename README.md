@@ -15,7 +15,7 @@
 Python &emsp;| &emsp; R &emsp;| &emsp; LaTeX &emsp;| &emsp; English(IELTS 7.5) &emsp;| &emsp; Cooking
 
 # 🧸 Internships
-- *2024.07 - 2024.10*, Risk Consulting,FRM,*KPMG*, China.
+- *2024.07 - 2024.11*, Risk Consulting,FRM,*KPMG*, China.
 
 # 📫 Reach me
 - ***QQ*** :&emsp;542219577
