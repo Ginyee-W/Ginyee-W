@@ -1,6 +1,6 @@
 # Hi there 👋
 ## I'm Jinyi
-#### Undergraduate Student | Central University of Finance and Economics
+#### Graduate Student | Nanyang Technological University
 
 # 🔭Currently Working
 *The impact of energy infrastructure of urban resilience.*
