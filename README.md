@@ -7,6 +7,7 @@
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.S. in Statistics at Central University of Finance and Economics.&emsp;GPA:3.5/4.
+- *2025.08 - 2026.06*, Msc. in Analytics at Nanyang Technological University,Singapore.
 
 # 🎖 Honors and Awards
 - *2024.5*  Mathematical Contest in Modeling (MCM) &emsp;&emsp;  **Honorable Mention**
