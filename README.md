@@ -21,7 +21,7 @@ Python &emsp;| &emsp; R &emsp;| &emsp; LaTeX &emsp;| &emsp; English(IELTS 7.5) &
 # 📫 Reach me
 - ***QQ*** :&emsp;542219577
 - ***WeChat***:&emsp;wjy542219577
-- ***Tel***:&emsp;+86 19857333783
+- ***Tel***:+86 19857333783 or +65 89656615
 - ***Email***:&emsp;wujinyi1203@163.com
 
 <!--
