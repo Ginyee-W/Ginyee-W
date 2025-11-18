@@ -11,7 +11,7 @@
 
 # 🎖 Honors and Awards
 - *2024.5*  Mathematical Contest in Modeling (MCM) &emsp;&emsp;  **Honorable Mention**
-- *2024.11*  University-Level Scholarship of CUFE &emsp;&emsp;&emsp; &emsp;   **Academic Excellence Scholarship**
+- *2024.11*  University-Level Scholarship of CUFE &emsp;&emsp;&emsp;   **Academic Excellence Scholarship**
 
 # 🦾 Skills
 Python &emsp;| &emsp; R &emsp;| &emsp; LaTeX &emsp;|&emsp; SQL &emsp;| &emsp; English(IELTS 7.5) &emsp;| &emsp; Cooking
