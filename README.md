@@ -13,7 +13,7 @@
 - *2024.5*  Mathematical Contest in Modeling (MCM) &emsp;&emsp;  **Honorable Mention**
 
 # 🦾 Skills
-Python &emsp;| &emsp; R &emsp;| &emsp; LaTeX &emsp;| &emsp;| &emsp; SQL &emsp;| &emsp; English(IELTS 7.5) &emsp;| &emsp; Cooking
+Python &emsp;| &emsp; R &emsp;| &emsp; LaTeX &emsp;|&emsp; SQL &emsp;| &emsp; English(IELTS 7.5) &emsp;| &emsp; Cooking
 
 # 🧸 Internships
 - *2024.07 - 2024.11*, Risk Consulting,FRM,*KPMG*, China.
